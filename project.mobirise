@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 53,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x96.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -33,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "supplementary materials",
+        "title": "Quin Wills",
         "meta_descr": "Quin Wills",
         "header_custom": "",
         "footer_custom": "",
@@ -194,7 +194,7 @@
             "showSubTitle": true
           },
           "title": "<span style=\"font-weight: normal;\">wherever possible I try communicate asynchronously</span>",
-          "subtitle": "Elon Musk<br><br>I welcome non-twitter messages too. &nbsp;<br>",
+          "subtitle": "Elon Musk<br><br>I welcome non-twitter messages too. &nbsp;quin[at]devilontwosticks[dot]org or the message box below.<br>",
           "form": {
             "action": "quin@devilontwosticks.org",
             "alerts": {
@@ -348,8 +348,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "about me and our science",
-        "meta_descr": ""
+        "title": "Quin Wills",
+        "meta_descr": "Quin Wills"
       },
       "components": [
         {
