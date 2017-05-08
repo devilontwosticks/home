@@ -87,7 +87,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/aenglund-smoking-1400x1616.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aenglund-smoking2-1-1400x1616.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -106,7 +106,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">supplementary materials</span><br>",
-          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on changes that occur before disease manifests</b>, such as altered energetics, cellular senescence, and inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Group Leader, Novo Nordisk Research Centre Oxford<br>&nbsp;<br>",
+          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on changes that occur before disease manifests</b>, such as altered energetics, cellular senescence, and inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Team Leader, Novo Nordisk Research Centre Oxford<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-beaker mbr-iconfont mbr-iconfont-btn\"></span>about me and the tools I use</a>"
         },
         {
