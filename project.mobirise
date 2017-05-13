@@ -444,7 +444,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
@@ -455,7 +455,7 @@
           "_styles": {
             ".mbr-section-lead": {
               "color": "#4b4b4b",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
               "font-size": "18px"
