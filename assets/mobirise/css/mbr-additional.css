@@ -477,3 +477,14 @@ h6,
   font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
 }
+
+#header1-1i .mbr-section-lead {
+  color: #4b4b4b;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+}
+#header1-1i .mbr-section-title {
+  color: #000000;
+  font-size: 36px;
+}
