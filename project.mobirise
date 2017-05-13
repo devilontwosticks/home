@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Quin Wills",
-    "currentPage": "lecture.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -433,7 +433,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cells-3-2000x903.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
