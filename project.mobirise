@@ -441,7 +441,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "left",
@@ -454,14 +454,14 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>  ",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#ffffff",
+              "color": "#4b4b4b",
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
               "font-size": "18px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "36px"
             }
           }
