@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Quin Wills",
-    "currentPage": "lecture.html",
+    "currentPage": "southafrica.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -418,10 +418,10 @@
         }
       ]
     },
-    "lecture.html": {
+    "southafrica.html": {
       "settings": {
-        "title": "lecture",
-        "meta_descr": "lecture"
+        "title": "South Africa",
+        "meta_descr": "South Africa"
       },
       "components": [
         {
