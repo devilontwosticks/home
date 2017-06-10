@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127.png",
     "noImageResize": "",
@@ -106,7 +106,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">supplementary materials</span><br>",
-          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on pathophysiology that occurs before disease manifests</b>, such as altered energetics, cellular senescence, and chonic inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Head of Advanced Genomics, Novo Nordisk Research Centre Oxford<br>quin[at]devilontwosticks[dot]org<br>qws[at]novonordisk[dot]com<br>&nbsp;<br>",
+          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on pathophysiology that occurs before disease manifests</b>, such as altered energetics, cellular senescence, and chonic inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Head of Advanced Genomics, Novo Nordisk Research Centre Oxford<br>quin[at]devilontwosticks[dot]org<br>qws[at]novonordisk[dot]com<br>&nbsp;www.linkedin.com/in/devilon2sticks<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-beaker mbr-iconfont mbr-iconfont-btn\"></span>about me and the tools I use</a>"
         },
         {
@@ -154,7 +154,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://twitter.com/devilon2sticks\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;talk to me</a> ",
           "title": "<span style=\"font-weight: normal;\">twitter is the devil's playground</span>",
-          "text": "Albert Brooks<br><br>I don't tweet with this account, but feel free to direct message if email seems so 2010.<br><br>"
+          "text": "Albert Brooks<br><br>I don't tweet here, but feel free to direct message me.<br><br>"
         },
         {
           "_tags": [
@@ -194,7 +194,7 @@
             "showSubTitle": true
           },
           "title": "<span style=\"font-weight: normal;\">wherever possible I try communicate asynchronously</span>",
-          "subtitle": "Elon Musk<br><br>And if all else fails...",
+          "subtitle": "Elon Musk<br><br>For those who find emails/LinkedIn too generation X, and twitter too generation Y...",
           "form": {
             "action": "quin@devilontwosticks.org",
             "alerts": {
