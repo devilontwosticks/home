@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127.png",
     "noImageResize": "",
@@ -415,56 +415,128 @@
           "title": "<span style=\"font-weight: normal;\">about me and the tools I use</span>",
           "text": "As a research MD, computational genomicist, pharmacogenomics entrepreneur, and member of the Oxford Single Cell Biology Consortium, m<span style=\"line-height: 1.5;\">y long-standing research interest has been&nbsp;cellular genetics models.&nbsp;</span>Under the Novo Nordisk Research Centre Oxford I'm leading a new hybrid industry-academic team trying to improve liver nutrient sensing by building models that control each cell's genetics and microenvironment. Key words: single-cell genomics, gene editing, in vitro models, high-throughput screens.&nbsp;<br><br><iframe id=\"iframe_container\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\" width=\"550\" height=\"400\" src=\"https://prezi.com/embed/nyiwczgf9cyc/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5ejc1MGRIczNQZXMwV3pUUExjS3c4MzJRPT0&amp;landing_sign=KZn2sRUo4nURG6FIQ08wlwOmNj1hfctIPIMRJw8LaUA\"></iframe><br><br>Quin Wills<br>MBBCh (Medicine and Surgery, University of the Witwatersrand, South Africa)<br>DPhil (Statistical Genomics, University of Oxford, United Kingdom)<br>MPhil (Computational Biology, University of Cambridge, United Kingdom)<br>MSc (Applied Mathematics, University of Oxford, United Kingdom)<br>BScHons (Human Genetics, University of the Witwatersrand, &nbsp;South Africa)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        }
-      ]
-    },
-    "southafrica.html": {
-      "settings": {
-        "title": "South Africa",
-        "meta_descr": "South Africa"
-      },
-      "components": [
+        },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header1-1i",
+          "_name": "features3",
+          "_anchor": "features3-1o",
           "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cells-3-2000x903.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
           },
-          "title": "THE LOW DOWN ON SINGLE-CELL GENOMICS<br><br>",
-          "text": "In 2013 Nature Methods named single-cell genomics their \"Method of the Year\", within an atmosphere of claims that cellular resolution would enable functional genomics' equivalent of the human genome project. As co-steer of the Oxford Single Cell Biology Consortium, and current Head of Genomics in the recently founded Novo Nordisk Research Centre Oxford, I've helped drive both the technology and computational developments. In a talk aimed at functional genomicists, computational biologists, and liver/diabetes researchers, I'll provide an overview of the space and the realities being faced as part of my goal to integrate massively parallel gene editing and single-cell methods to model liver metabolism and identify type 2 diabetes drug targets.<br> &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>  "
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lgbt-2-600x75.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>Inclusiveness. </b>Embracing all cultures, the gender you were born with, the gender you choose to be, and the gender(s) you wish to share you life with.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nc3rs-4-600x75.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>Research integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/failure-2-600x75.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Failing fast. </b>Accepting failure as a crucial part of the progress that comes from asking bold questions that require creative solutions.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#616060",
+              "font-size": "14px"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          }
         }
       ]
     }
