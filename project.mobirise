@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Quin Wills",
-    "currentPage": "southafrica.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127.png",
     "noImageResize": "",
@@ -106,7 +106,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">supplementary materials</span><br>",
-          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on changes that occur before disease manifests</b>, such as altered energetics, cellular senescence, and inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Team Leader, Novo Nordisk Research Centre Oxford<br>&nbsp;<br>",
+          "text": "<b>Nobody is invincible to gradual physiological decline</b>. Until recent human history, you would have considered yourself lucky to reach your forties. Now, a modern lifespan and lifestyle (those extra few calories and sofa evenings with Netflix) can mean years of infirmity.<br><br><b>Science that fascinates me tries to improve the human healthspan by focusing on pathophysiology that occurs before disease manifests</b>, such as altered energetics, cellular senescence, and chonic inflammation. I see these as being at the heart of the 'silver tsunami' defining our generation.<br><br><b>Specifically, my focus is on maintaining and restoring normal nutrient sensing in the liver</b>. A healthy liver means a healthy metabolism, less diabetes, and less cardiovascular disease.<br><br>Welcome to my personal GitHub portal. All opinions are my own.<br><br>Quin Wills<br>Head of Advanced Genomics, Novo Nordisk Research Centre Oxford<br>quin[at]devilontwosticks[dot]org<br>qws[at]novonordisk[dot]com<br>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-beaker mbr-iconfont mbr-iconfont-btn\"></span>about me and the tools I use</a>"
         },
         {
@@ -152,9 +152,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://twitter.com/devilon2sticks\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;news and views via twitter</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://twitter.com/devilon2sticks\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;talk to me</a> ",
           "title": "<span style=\"font-weight: normal;\">twitter is the devil's playground</span>",
-          "text": "Albert Brooks<br><br>Who doesn't need more soundbites in a post-truth world? I plan to occasionally tweet &nbsp;news and thoughts on interesting science. Often from my other liver lab, the pub.<br><br>"
+          "text": "Albert Brooks<br><br>I don't tweet with this account, but feel free to direct message if email seems so 2010.<br><br>"
         },
         {
           "_tags": [
@@ -194,7 +194,7 @@
             "showSubTitle": true
           },
           "title": "<span style=\"font-weight: normal;\">wherever possible I try communicate asynchronously</span>",
-          "subtitle": "Elon Musk<br><br>I welcome non-twitter messages too. &nbsp;Email quin[at]devilontwosticks[dot]org or use the message box below.<br>",
+          "subtitle": "Elon Musk<br><br>And if all else fails...",
           "form": {
             "action": "quin@devilontwosticks.org",
             "alerts": {
@@ -273,7 +273,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>Embracing the gender you were born with, the gender you choose to be,&nbsp;<span style=\"line-height: 1.5;\">and the gender(s) you wish to share you life with.</span></p>",
+          "caption1": "<p><b>Inclusiveness.</b> Embracing all cultures, the gender you were born with, the gender you choose to be,&nbsp;<span style=\"line-height: 1.5;\">and the gender(s) you wish to share you life with.</span></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -289,7 +289,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Recognising that research impacts all life, holding ourselves to the highest 3R standards when modelling biology.&nbsp;",
+          "caption2": "<b>Research integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -305,7 +305,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Accepting failure as an important part of the progress that comes from asking bold questions that require creative solutions. &nbsp;",
+          "caption3": "<b>Failing fast.</b> Accepting failure as a crucial part of the progress that comes from asking bold questions that require creative solutions. &nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -429,6 +429,19 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-1i",
           "_params": {
             "parallax": true,
@@ -451,20 +464,7 @@
           },
           "title": "THE LOW DOWN ON SINGLE-CELL GENOMICS<br><br>",
           "text": "In 2013 Nature Methods named single-cell genomics their \"Method of the Year\", within an atmosphere of claims that cellular resolution would enable functional genomics' equivalent of the human genome project. As co-steer of the Oxford Single Cell Biology Consortium, and current Head of Genomics in the recently founded Novo Nordisk Research Centre Oxford, I've helped drive both the technology and computational developments. In a talk aimed at functional genomicists, computational biologists, and liver/diabetes researchers, I'll provide an overview of the space and the realities being faced as part of my goal to integrate massively parallel gene editing and single-cell methods to model liver metabolism and identify type 2 diabetes drug targets.<br> &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>  ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE INFO</a>  "
         }
       ]
     }
