@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127.png",
     "noImageResize": "",
@@ -421,6 +421,15 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#616060",
+              "font-size": "15px"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
           "_anchor": "features3-1o",
           "_params": {
             "paddingTop": "0",
@@ -527,14 +536,54 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#616060",
-              "font-size": "15px"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "news.html": {
+      "settings": {
+        "title": "news",
+        "meta_descr": "news"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1p",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/cells-3-2000x903.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "B": {
-              "font-size": "15px"
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\">I'm hiring!</span>",
+          "text": "<span style=\"line-height: 1.5;\">12 June 2017</span><br><span style=\"line-height: 1.5;\"><br></span>Oxford University and Novo Nordisk have recently established the UK's first truly hybrid academic-industry research institue studying metabolism and type 2 diabetes (see the original announcements <a href=\"http://www.telegraph.co.uk/business/2017/01/30/novo-nordisk-sets-aside-brexit-fears-invest-115m-oxford-research/\" target=\"_blank\">here</a> and <a href=\"http://www.ox.ac.uk/news/2017-01-30-novo-nordisk-enters-collaboration-university-oxford-type-2-diabetes\" target=\"_blank\">here</a>).<br> <br>The Novo Nordisk Research Centre Oxford will consist of eight teams using the latest genomic tools, gene editing, cell models and computational biology at a scale not typically possible within a traditional academic setting; providing a unique research environment for students, postdocs and our 100 full-time employees. &nbsp;<br><br>The interdisciplinary Advanced Genomics team (both wet- and dry-lab) is hiring! I'm looking for highly driven single-cell experimentalists and computationalists who are interested in studying the connection between liver metabolism and type 2 diabetes in a challenging and fast-paced setting.&nbsp;<br><br><span style=\"line-height: 1.5;\">Check out the link below for available posts, but don't feel shy to send me your CV if you'd like to be considered for future positions not yet advertised. Tell me why I'd be crazy not to hire you, and come help shape the culture within a unique research setting having academic and industry career growth opportunities.</span><br><br><span style=\"line-height: 1.5;\">Quin Wills</span><br><span style=\"line-height: 1.5;\">Head of Advanced Genomics</span><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OPEN POSITIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT ME</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
             }
           }
         }

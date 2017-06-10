@@ -484,3 +484,13 @@ h6,
 #features3-1o B {
   font-size: 15px;
 }
+
+#header1-1p .mbr-section-title {
+  text-align: left;
+  font-size: 36px;
+}
+#header1-1p .mbr-section-lead {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+}
