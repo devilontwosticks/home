@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Quin Wills",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -531,7 +531,7 @@
           "_styles": {
             "P": {
               "color": "#616060",
-              "font-size": "14px"
+              "font-size": "15px"
             },
             "B": {
               "font-size": "15px"
