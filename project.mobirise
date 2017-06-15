@@ -154,7 +154,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://twitter.com/devilon2sticks\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-twitter mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;talk to me</a> ",
           "title": "<span style=\"font-weight: normal;\">twitter is the devil's playground</span>",
-          "text": "Albert Brooks<br><br>I don't tweet here, but feel free to direct message me.<br><br>"
+          "text": "Albert Brooks<br><br>I don't tweet, but feel free to direct message me.<br><br>"
         },
         {
           "_tags": [
@@ -194,7 +194,7 @@
             "showSubTitle": true
           },
           "title": "<span style=\"font-weight: normal;\">wherever possible I try communicate asynchronously</span>",
-          "subtitle": "Elon Musk<br><br>For those who find emails/LinkedIn too generation X, and twitter too generation Y...",
+          "subtitle": "Elon Musk<br><br>For those who find emails/LinkedIn too generation x, and twitter too generation y...",
           "form": {
             "action": "quin@devilontwosticks.org",
             "alerts": {
@@ -289,7 +289,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Research integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.&nbsp;",
+          "caption2": "<b>Integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -305,7 +305,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Failing fast.</b> Accepting failure as a crucial part of the progress that comes from asking bold questions that require creative solutions. &nbsp;",
+          "caption3": "<b>Innovation.</b> Accepting that failing fast is a crucial part of the progress that comes from asking bold questions that require creative solutions. &nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -483,7 +483,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Research integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.",
+          "caption2": "<b>Integrity. </b>Recognising that research impacts all life, holding ourselves to the highest 3R and reproducibility standards when modelling biology.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -499,7 +499,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Failing fast. </b>Accepting failure as a crucial part of the progress that comes from asking bold questions that require creative solutions.",
+          "caption3": "<b>Innovation. </b>Accepting that failing fast is a crucial part of the progress that comes from asking bold questions that require creative solutions.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -583,9 +583,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">I'm hiring!</span>",
-          "text": "<span style=\"line-height: 1.5;\">12 June 2017</span><br><span style=\"line-height: 1.5;\"><br></span>Oxford University and Novo Nordisk have recently established the UK's first truly hybrid academic-industry research institue studying metabolism and type 2 diabetes (see the original announcements <a href=\"http://www.telegraph.co.uk/business/2017/01/30/novo-nordisk-sets-aside-brexit-fears-invest-115m-oxford-research/\" target=\"_blank\">here</a> and <a href=\"http://www.ox.ac.uk/news/2017-01-30-novo-nordisk-enters-collaboration-university-oxford-type-2-diabetes\" target=\"_blank\">here</a>).<br> <br>The Novo Nordisk Research Centre Oxford will consist of eight teams using the latest genomic tools, gene editing, cell models and computational biology at a scale not typically possible within a traditional academic setting; providing a unique research environment for students, postdocs and our 100 full-time employees. &nbsp;<br><br>The interdisciplinary Advanced Genomics team (both wet- and dry-lab) is hiring! I'm looking for highly driven single-cell experimentalists and computationalists who are interested in studying the connection between liver metabolism and type 2 diabetes in a challenging and fast-paced setting.&nbsp;<br><br><span style=\"line-height: 1.5;\">Check out the link below for available posts, but don't feel shy to send me your CV if you'd like to be considered for future positions not yet advertised. Tell me why I'd be crazy not to hire you, and come help shape the culture within a unique research setting having academic and industry career growth opportunities.</span><br><br><span style=\"line-height: 1.5;\">Quin Wills</span><br><span style=\"line-height: 1.5;\">Head of Advanced Genomics</span><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OPEN POSITIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT ME</a>"
+          "title": "<span style=\"font-weight: normal;\">I'm hiring single-cell scientists!</span>",
+          "text": "<span style=\"line-height: 1.5;\">15 June 2017</span><br><span style=\"line-height: 1.5;\"><br></span>Oxford University and Novo Nordisk have recently established the UK's first truly hybrid academic-industry research institute studying metabolism and type 2 diabetes (see the original announcements <a href=\"http://www.telegraph.co.uk/business/2017/01/30/novo-nordisk-sets-aside-brexit-fears-invest-115m-oxford-research/\" target=\"_blank\">here</a> and <a href=\"http://www.ox.ac.uk/news/2017-01-30-novo-nordisk-enters-collaboration-university-oxford-type-2-diabetes\" target=\"_blank\">here</a>).<br> <br>The Novo Nordisk Research Centre Oxford will consist of teams using the latest genomic tools, gene editing, cell models and computational biology at a scale not typically possible within a traditional academic setting; providing a unique research environment for students, postdocs and our full-time employees. &nbsp;<br><br>The interdisciplinary Advanced Genomics team (both wet- and dry-lab) is hiring! I'm looking for highly driven single-cell experimentalists and computationalists who are interested in studying the connection between liver metabolism and type 2 diabetes in a challenging and fast-paced setting.&nbsp;<br><br><span style=\"line-height: 1.5;\">Check out the link below for available posts, but don't feel shy to send me your CV if you'd like to be considered for future positions not yet advertised. Tell me why I'd be crazy not to hire you, and come help shape the culture within a unique research setting having academic and industry career growth opportunities.</span><br><br><span style=\"line-height: 1.5;\">Quin Wills</span><br><span style=\"line-height: 1.5;\">Head of Advanced Genomics</span><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.nature.com/naturejobs/science/jobs/617383-computational-biologist-in-single-cell-and-crispr-genomics\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN POSITIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT ME</a>"
         }
       ]
     }
