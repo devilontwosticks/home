@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x127.png",
     "noImageResize": "",
@@ -583,9 +583,144 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">I'm hiring single-cell scientists!</span>",
-          "text": "<span style=\"line-height: 1.5;\">15 June 2017</span><br><span style=\"line-height: 1.5;\"><br></span>Oxford University and Novo Nordisk have recently established the UK's first truly hybrid academic-industry research institute studying metabolism and type 2 diabetes (see the original announcements <a href=\"http://www.telegraph.co.uk/business/2017/01/30/novo-nordisk-sets-aside-brexit-fears-invest-115m-oxford-research/\" target=\"_blank\">here</a> and <a href=\"http://www.ox.ac.uk/news/2017-01-30-novo-nordisk-enters-collaboration-university-oxford-type-2-diabetes\" target=\"_blank\">here</a>).<br> <br>The Novo Nordisk Research Centre Oxford will consist of teams using the latest genomic tools, gene editing, cell models and computational biology at a scale not typically possible within a traditional academic setting; providing a unique research environment for students, postdocs and our full-time employees. &nbsp;<br><br>The interdisciplinary Advanced Genomics team (both wet- and dry-lab) is hiring! I'm looking for highly driven single-cell experimentalists and computationalists who are interested in studying the connection between liver metabolism and type 2 diabetes in a challenging and fast-paced setting.&nbsp;<br><br><span style=\"line-height: 1.5;\">Check out the link below for available posts, but don't feel shy to send me your CV if you'd like to be considered for future positions not yet advertised. Tell me why I'd be crazy not to hire you, and come help shape the culture within a unique research setting having academic and industry career growth opportunities.</span><br><br><span style=\"line-height: 1.5;\">Quin Wills</span><br><span style=\"line-height: 1.5;\">Head of Advanced Genomics</span><br><br>",
+          "title": "<span style=\"font-weight: normal;\">I'm hiring more single-cell scientists</span>",
+          "text": "<span style=\"line-height: 1.5;\">July 2017</span><br><span style=\"line-height: 1.5;\"><br></span>Oxford University and Novo Nordisk have recently established the UK's first truly hybrid academic-industry research institute studying metabolism and type 2 diabetes (see the original announcements <a href=\"http://www.telegraph.co.uk/business/2017/01/30/novo-nordisk-sets-aside-brexit-fears-invest-115m-oxford-research/\" target=\"_blank\">here</a> and <a href=\"http://www.ox.ac.uk/news/2017-01-30-novo-nordisk-enters-collaboration-university-oxford-type-2-diabetes\" target=\"_blank\">here</a>).<br> <br>The Novo Nordisk Research Centre Oxford will consist of teams using the latest genomic tools, gene editing, cell models and computational biology at a scale not typically possible within a traditional academic setting; providing a unique research environment for students, postdocs and our full-time employees. &nbsp;<br><br>The interdisciplinary Advanced Genomics team (both wet- and dry-lab) is hiring! I'm looking for highly driven single-cell experimentalists and computationalists who are interested in studying the connection between liver metabolism and type 2 diabetes in a challenging and fast-paced setting.&nbsp;<br><br><span style=\"line-height: 1.5;\">Check out the link below for available posts, but don't feel shy to send me your CV if you'd like to be considered for future positions not yet advertised. Tell me why I'd be crazy not to hire you, and come help shape the culture within a unique research setting having academic and industry career growth opportunities.</span><br><br><span style=\"line-height: 1.5;\">Quin Wills</span><br><span style=\"line-height: 1.5;\">Head of Advanced Genomics</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.nature.com/naturejobs/science/jobs/617383-computational-biologist-in-single-cell-and-crispr-genomics\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN POSITIONS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT ME</a>"
+        }
+      ]
+    },
+    "waltonwell.html": {
+      "settings": {
+        "title": "28a Walton Well Road",
+        "meta_descr": "28a Walton Well Road"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#cccccc",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "header1-1q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/front-2000x1552.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "28A WALTON WELL ROAD<br>JERICHO OX2 6ED",
+          "text": "<br>Room available<b> </b>from<b> </b>1 September in a beautiful two room Jericho terraced home by the canal and Port Meadow. Fully furnished. Refurbished 2013. Sorry, no couples (landlord’s rules).<br><br>The lease rent is £788 pm, with the following being rough monthly costs for the whole place (i.e. gets split between the tenants):<br><br>EDF energy: £60<br>Thames water: £26<br>Virgin media (100 Mps wifi!): £36<br>Oxford city council tax: £154<br><br>This two-person home is a really good find for those tired of living in grubby shared accommodation. Having a third guest room is also great asset for hosting visitors. &nbsp;<br><br>The place best suits relaxed, friendly, interesting, working professionals/postdocs who don’t need cleaning rotas or being reminded to wash their dishes. It’s currently rented by chillaxed and respectful scientists. If you are seriously considering the room please email both quin@devilontwosticks.org and nativecoder@gmail.com, briefly describing yourself and when you could drop by for a viewing.<br><br>Pics below!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lounge-2000x1482-800x592.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lounge-2000x1482.jpg",
+                "caption": "The lounge",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kitchen-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kitchen-2000x1497.jpg",
+                "caption": "The kitchen",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rear-room-2000x1496-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rear-room-2000x1496.jpg",
+                "caption": "The room on offer (faces over the back yard)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rear-room2-2000x2735-800x1094.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rear-room2-2000x2735.jpg",
+                "caption": "The view from the room.",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/guest-room-2000x2691-800x1076.jpg",
+                "image": "@PROJECT_PATH@/assets/images/guest-room-2000x2691.jpg",
+                "caption": "The guest room",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bathroom-2000x1510-800x604.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bathroom-2000x1510.jpg",
+                "caption": "The bathroom",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yard2-2000x2701-800x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yard2-2000x2701.jpg",
+                "caption": "The yard",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1r",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
